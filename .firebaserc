@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-acad6": {
+      "hosting": {
+        "DAKeep": [
+          "danotes-acad6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-acad6"
+  }
+}
